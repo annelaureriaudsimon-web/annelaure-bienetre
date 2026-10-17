@@ -243,3 +243,14 @@ a.chip:hover{background:var(--blush);border-color:var(--sun)}
 @media (max-width:640px){.brand small{display:none}}
 @media (min-width:600px) and (max-width:860px){.tools{grid-template-columns:1fr 1fr}.cards{grid-template-columns:1fr 1fr}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+
+/* corrections accueil */
+.nw{white-space:nowrap}
+.pk{color:var(--peony);font-style:italic}
+.welcome{align-items:start}
+.welcome-r{padding-top:clamp(0px,7vw,96px)}
+.if-you{text-align:center;font-family:var(--display);font-size:clamp(1.8rem,4vw,2.6rem);color:var(--leaf-deep);margin:0 0 clamp(24px,4vw,40px);line-height:1.15}
+.engage{font-size:1.15rem;line-height:1.7;color:var(--soft)}
+.kw{white-space:nowrap;font-family:var(--display);font-size:1.3em;font-style:italic;line-height:1.3}
+.k1{color:var(--peony)}.k2{color:var(--leaf)}.k3{color:#a2741a}.k4{color:var(--peony-deep)}
+@media (max-width:860px){.welcome-r{padding-top:0}}

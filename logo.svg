@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Anne-Laure, accompagnement bien-être">
+<defs>
+<clipPath id="c"><circle cx="200" cy="200" r="186"/></clipPath>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7cc9ee"/><stop offset="1" stop-color="#e4f6fd"/></linearGradient>
+<radialGradient id="sun"><stop offset="0" stop-color="#fff3b8"/><stop offset="1" stop-color="#ffd36b"/></radialGradient>
+<g id="peony"><g fill="#e9528a"><circle cx="0" cy="-14" r="13"/><circle cx="13" cy="-4" r="13"/><circle cx="8" cy="11" r="13"/><circle cx="-8" cy="11" r="13"/><circle cx="-13" cy="-4" r="13"/></g><g fill="#f58db0"><circle cx="0" cy="-6" r="9"/><circle cx="6" cy="2" r="9"/><circle cx="-6" cy="2" r="9"/></g><circle r="5" fill="#ffd36b"/></g>
+<g id="lotus"><path d="M0 0 C-22 -6 -26 -30 -10 -44 C-8 -26 -4 -12 0 0Z" fill="#f7a4c4"/><path d="M0 0 C22 -6 26 -30 10 -44 C8 -26 4 -12 0 0Z" fill="#f7a4c4"/><path d="M0 0 C-12 -14 -10 -36 0 -52 C10 -36 12 -14 0 0Z" fill="#ee6c9e"/><path d="M0 0 C-34 0 -44 -18 -40 -30 C-22 -26 -8 -14 0 0Z" fill="#f9bfd5"/><path d="M0 0 C34 0 44 -18 40 -30 C22 -26 8 -14 0 0Z" fill="#f9bfd5"/></g>
+<g id="daisy"><g fill="#fff"><circle cx="0" cy="-5" r="3.4"/><circle cx="5" cy="-1.5" r="3.4"/><circle cx="3" cy="4" r="3.4"/><circle cx="-3" cy="4" r="3.4"/><circle cx="-5" cy="-1.5" r="3.4"/></g><circle r="2.6" fill="#f7b32b"/></g>
+</defs>
+<circle cx="200" cy="200" r="196" fill="#fff"/>
+<g clip-path="url(#c)">
+<rect width="400" height="400" fill="url(#sky)"/>
+<circle cx="300" cy="104" r="62" fill="#ffe9a0" opacity=".45"/>
+<circle cx="300" cy="104" r="36" fill="url(#sun)"/>
+<path d="M60 70 q22 -14 44 0 q14 -8 26 0 q-12 10 -30 8 q-20 8 -40 -8z" fill="#fff" opacity=".85"/>
+<path d="M-10 262 Q90 206 200 250 T410 238 V410 H-10Z" fill="#b7e0b0"/>
+<path d="M-10 300 Q110 258 220 296 T410 280 V410 H-10Z" fill="#6cbf95"/>
+<g fill="#2f8a6b"><ellipse cx="48" cy="318" rx="14" ry="40" transform="rotate(-28 48 318)"/><ellipse cx="78" cy="330" rx="12" ry="34" transform="rotate(14 78 330)"/><ellipse cx="352" cy="318" rx="14" ry="40" transform="rotate(28 352 318)"/><ellipse cx="322" cy="332" rx="12" ry="34" transform="rotate(-14 322 332)"/></g>
+<g fill="#4aa57f"><ellipse cx="30" cy="290" rx="10" ry="30" transform="rotate(-48 30 290)"/><ellipse cx="372" cy="290" rx="10" ry="30" transform="rotate(48 372 290)"/></g>
+<!-- legs -->
+<path d="M112 306 Q142 252 200 266 Q258 252 288 306 Q244 330 200 320 Q156 330 112 306Z" fill="#7b4fa0"/>
+<path d="M140 296 Q176 276 200 282 Q224 276 260 296 Q232 308 200 304 Q168 308 140 296Z" fill="#9468bb"/>
+<ellipse cx="136" cy="308" rx="16" ry="8" fill="#e9b48f"/><ellipse cx="264" cy="308" rx="16" ry="8" fill="#e9b48f"/>
+<!-- torso -->
+<path d="M168 196 Q200 180 232 196 L226 266 Q200 278 174 266Z" fill="#f7b32b"/>
+<path d="M186 190 Q200 204 214 190" fill="none" stroke="#e29a12" stroke-width="3"/>
+<!-- neck head -->
+<rect x="192" y="168" width="16" height="18" rx="6" fill="#e0a57f"/>
+<circle cx="200" cy="150" r="25" fill="#f0c09b"/>
+<path d="M174 148 Q176 118 202 120 Q226 120 226 148 Q214 132 200 134 Q184 134 174 148Z" fill="#4a2a2a"/>
+<circle cx="200" cy="112" r="12" fill="#4a2a2a"/>
+<path d="M190 151 q4 4 8 0 M202 151 q4 4 8 0" fill="none" stroke="#4a2a2a" stroke-width="2" stroke-linecap="round"/>
+<path d="M193 162 q7 6 14 0" fill="none" stroke="#c8336d" stroke-width="2.4" stroke-linecap="round"/>
+<circle cx="184" cy="159" r="4.5" fill="#f58db0" opacity=".55"/><circle cx="216" cy="159" r="4.5" fill="#f58db0" opacity=".55"/>
+<!-- arms and cup -->
+<path d="M172 202 Q152 240 192 254" fill="none" stroke="#f7b32b" stroke-width="15" stroke-linecap="round"/>
+<path d="M228 202 Q248 240 208 254" fill="none" stroke="#f7b32b" stroke-width="15" stroke-linecap="round"/>
+<circle cx="192" cy="254" r="7" fill="#f0c09b"/><circle cx="208" cy="254" r="7" fill="#f0c09b"/>
+<path d="M186 238 H214 V252 Q214 264 200 264 Q186 264 186 252Z" fill="#fff" stroke="#c8336d" stroke-width="2.5"/>
+<path d="M186 246 H214" stroke="#c8336d" stroke-width="2"/>
+<path d="M194 232 q-5 -8 0 -14 q5 -6 0 -12 M206 232 q-5 -8 0 -14 q5 -6 0 -12" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" opacity=".9"/>
+<!-- flowers -->
+<use href="#peony" transform="translate(70 338) scale(1.15)"/>
+<use href="#peony" transform="translate(338 344) scale(1.3)"/>
+<use href="#peony" transform="translate(120 370) scale(.85)"/>
+<use href="#lotus" transform="translate(206 392) scale(1.2)"/>
+<use href="#daisy" transform="translate(40 262) scale(1.2)"/><use href="#daisy" transform="translate(366 258) scale(1.2)"/><use href="#daisy" transform="translate(96 296)"/><use href="#daisy" transform="translate(306 300)"/><use href="#daisy" transform="translate(268 360)"/><use href="#daisy" transform="translate(160 346)"/>
+<g fill="#ffd36b"><circle cx="58" cy="236" r="3.5"/><circle cx="348" cy="232" r="3.5"/><circle cx="84" cy="352" r="3"/><circle cx="300" cy="374" r="3"/></g>
+</g>
+<circle cx="200" cy="200" r="190" fill="none" stroke="#f7b32b" stroke-width="6"/>
+<circle cx="200" cy="200" r="197" fill="none" stroke="#c8336d" stroke-width="2"/>
+</svg>
