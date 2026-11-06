@@ -257,3 +257,12 @@ a.chip:hover{background:var(--blush);border-color:var(--sun)}
 
 .art.std{width:min(100%,540px)}
 .art.std img{aspect-ratio:612/471}
+
+/* mon parcours */
+.path .me{display:block;margin-top:8px;color:var(--peony);font-family:var(--display);font-style:italic;font-size:1.15rem}
+.sub{color:var(--soft);font-weight:600;line-height:1.5;margin:6px 0 -6px}
+.dash{list-style:none;margin:0;padding:0;display:grid;gap:10px}
+.dash li{position:relative;padding-left:22px;color:var(--soft);line-height:1.5}
+.dash li::before{content:"–";position:absolute;left:0;color:var(--sun);font-weight:700}
+.mantra{display:grid;gap:10px;margin-top:14px;padding:22px 24px;background:var(--blush);border-radius:20px}
+.mantra em{color:var(--peony)}
