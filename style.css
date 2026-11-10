@@ -266,3 +266,10 @@ a.chip:hover{background:var(--blush);border-color:var(--sun)}
 .dash li::before{content:"–";position:absolute;left:0;color:var(--sun);font-weight:700}
 .mantra{display:grid;gap:10px;margin-top:14px;padding:22px 24px;background:var(--blush);border-radius:20px}
 .mantra em{color:var(--peony)}
+
+.practices{display:grid;gap:22px;margin-top:6px}
+.pr{--c:var(--peony);display:grid;gap:6px;padding:4px 0 4px 18px;border-left:3px solid var(--c)}
+.pr-esprit{--c:var(--leaf-deep)}.pr-art{--c:#a2741a}
+.pr-l{font-size:.8rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--c)}
+.pr p{display:flex;flex-wrap:wrap;gap:2px 20px;margin:0}
+.pr p span{font-family:var(--display);font-style:italic;font-size:1.35rem;line-height:1.4;color:var(--c)}
